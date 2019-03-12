@@ -1,0 +1,467 @@
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\FINAL\Accounting - Copy\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raphael Facundo\Downloads\budz\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raphael Facundo\Downloads\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\budzvalidate\BUDZ\Accounting\obj\Debug\Accounting.pdb
+E:\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+E:\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe
+E:\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.pdb
+E:\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csprojAssemblyReference.cache
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.cache
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.CopyComplete
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.exe
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.pdb
+E:\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\rtfacundo\Downloads\SAD II\SAD II\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.pdb
+E:\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+E:\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.exe
+E:\TEAM FDC\BUDZ\Accounting\bin\Debug\Accounting.pdb
+E:\TEAM FDC\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csprojAssemblyReference.cache
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.cache
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\FINAL.csproj.CopyComplete
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.exe
+E:\TEAM FDC\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\TEAM FDC 2.0\BUDZ\Accounting\obj\Debug\Accounting.pdb
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\Accounting.exe
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\Accounting.pdb
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.cache
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.exe
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.pdb
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csprojAssemblyReference.cache
+F:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CopyComplete
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\Accounting.exe
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\Accounting.pdb
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csprojAssemblyReference.cache
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.cache
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CopyComplete
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.exe
+E:\SAD II\TEAM FDC 3.0\budz\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csprojAssemblyReference.cache
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.cache
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\FINAL.csproj.CopyComplete
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Angelo Apigo\Desktop\budz\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\HAHHA\BUDZ\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\Nani\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\Nani\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\Nani\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\Nani\Accounting\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Raffy\Desktop\Nani\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\Nani\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\Nani\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\FINAL.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\VSANDDATABSE\Nani\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\bin\Debug\Accounting.exe
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\FINAL.csprojAssemblyReference.cache
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_appointment.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_credentials.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_dentalchart.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_patient.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_sales.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_services.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_viewapp.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.form_viewsched.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\FINAL.csproj.GenerateResource.cache
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\FINAL.csproj.CopyComplete
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.exe
+C:\Users\Angelo Apigo\Downloads\KANI GAMITA PLS PATI DB\Nani\Accounting\obj\Debug\Accounting.pdb

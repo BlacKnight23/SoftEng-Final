@@ -1,0 +1,100 @@
+C:\Users\Raffy\Desktop\Accounting\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\Accounting\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\Accounting\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\Accounting\Accounting\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\Accounting\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\Accounting\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_appointment.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_dentalchart.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_patient_dentalchart.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_patient_invoicerec.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.USC_patient_medhist.resources
+C:\Users\Raffy\Desktop\Accounting\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\bin\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\bin\Debug\MySql.Data.dll
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_appointment.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_dentalchart.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_dentalchart.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_invoicerec.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_medhist.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.exe
+C:\Users\Raffy\Desktop\Accounting - Copy\Accounting\obj\Debug\Accounting.pdb
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\bin\Debug\Accounting.exe
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\bin\Debug\Accounting.pdb
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_appointment.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_dentalchart.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_dentalchart.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_invoicerec.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_medhist.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.exe
+C:\Users\rtfacundo\Downloads\kani\Accounting - Copy\Accounting\obj\Debug\Accounting.pdb
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\bin\Debug\Accounting.exe.config
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\bin\Debug\Accounting.exe
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\bin\Debug\Accounting.pdb
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\bin\Debug\MySql.Data.xml
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.csprojResolveAssemblyReference.cache
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.adddeduct.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.main_menu.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.log_in.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.Properties.Resources.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_appointment.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_credential.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_dentalchart.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_inventory.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_dentalchart.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_info.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_invoicerec.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_patient_medhist.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_sales.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.USC_user.resources
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.csproj.GenerateResource.Cache
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.exe
+C:\Users\Angelo\Downloads\FEB 7 UPDATE\Accounting - Copy\Accounting\obj\Debug\Accounting.pdb

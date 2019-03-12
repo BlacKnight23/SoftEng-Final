@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B581610D-4C73-4108-A0FC-BE51F7DE66A8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Accounting</RootNamespace>
+    <AssemblyName>Accounting</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=6.10.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adddeduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adddeduct.Designer.cs">
+      <DependentUpon>adddeduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_appointment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_appointment.Designer.cs">
+      <DependentUpon>form_appointment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_credentials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_credentials.Designer.cs">
+      <DependentUpon>form_credentials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_dentalchart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_dentalchart.designer.cs">
+      <DependentUpon>form_dentalchart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_patient.Designer.cs">
+      <DependentUpon>form_patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_sales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_sales.Designer.cs">
+      <DependentUpon>form_sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_services.Designer.cs">
+      <DependentUpon>form_services.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_viewapp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_viewapp.Designer.cs">
+      <DependentUpon>form_viewapp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form_viewsched.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form_viewsched.Designer.cs">
+      <DependentUpon>form_viewsched.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_menu.Designer.cs">
+      <DependentUpon>main_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="log_in.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="log_in.Designer.cs">
+      <DependentUpon>log_in.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="USC_credential.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USC_credential.Designer.cs">
+      <DependentUpon>USC_credential.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USC_inventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USC_inventory.Designer.cs">
+      <DependentUpon>USC_inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USC_patient_info.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USC_patient_info.Designer.cs">
+      <DependentUpon>USC_patient_info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USC_sales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USC_sales.Designer.cs">
+      <DependentUpon>USC_sales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="USC_user.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="USC_user.Designer.cs">
+      <DependentUpon>USC_user.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adddeduct.resx">
+      <DependentUpon>adddeduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_appointment.resx">
+      <DependentUpon>form_appointment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_credentials.resx">
+      <DependentUpon>form_credentials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_dentalchart.resx">
+      <DependentUpon>form_dentalchart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_patient.resx">
+      <DependentUpon>form_patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_sales.resx">
+      <DependentUpon>form_sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_services.resx">
+      <DependentUpon>form_services.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_viewapp.resx">
+      <DependentUpon>form_viewapp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form_viewsched.resx">
+      <DependentUpon>form_viewsched.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_menu.resx">
+      <DependentUpon>main_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="log_in.resx">
+      <DependentUpon>log_in.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="USC_credential.resx">
+      <DependentUpon>USC_credential.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USC_inventory.resx">
+      <DependentUpon>USC_inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USC_patient_info.resx">
+      <DependentUpon>USC_patient_info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USC_sales.resx">
+      <DependentUpon>USC_sales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="USC_user.resx">
+      <DependentUpon>USC_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-big-searchoptimization.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-big-searchoptimization1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
